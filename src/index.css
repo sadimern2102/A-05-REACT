@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-jakarta: "Plus Jakarta Sans", sans-serif;
+  --font-inter: "Inter", sans-serif;
+  --color-primary: #d91b7e;
+  --color-secondary: #db2777;
+  --color-heading: #0f172a;
+  --color-text: #475569;
+  --color-pera: #64748b;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #ff5722, #d81b7e, #7c3aed);
+
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.gradient-heading {
+  background: linear-gradient(to right, #ec4899, #8b5cf6);
+
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.gradient-background {
+  background: linear-gradient(to right, #f97316, #ec4899);
+}
+
+.gradient-background-hover:hover {
+  background: linear-gradient(to right, #f97316, #ec4899);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "React",
+    "badge": "Popular",
+    "imageUrl": "/icons/React.svg.png",
+    "description": "A declarative, component-based JavaScript library for building user interfaces.",
+    "tags": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "Vue.js",
+    "badge": "Versatile",
+    "imageUrl": "/icons/Vue.js.png",
+    "description": "An approachable, performant and versatile framework for building web user interfaces.",
+    "tags": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.8,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "Svelte",
+    "badge": "Fast",
+    "imageUrl": "/icons/Svelte.png",
+    "description": "Cybernetically enhanced web apps with compile-time reactivity and zero virtual DOM overhead.",
+    "tags": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "Next.js",
+    "badge": null,
+    "imageUrl": "/icons/Container.png",
+    "description": "The React framework for full-stack web applications with hybrid static & server rendering.",
+    "tags": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "Node.js",
+    "badge": "Standard",
+    "imageUrl": "/icons/Node.js.png",
+    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 engine.",
+    "tags": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "PostgreSQL",
+    "badge": "Top SQL",
+    "imageUrl": "/icons/PostgreSQL.png",
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "tags": "Database",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "Redis",
+    "badge": "Cache",
+    "imageUrl": "/icons/Redis.png",
+    "description": "In-memory data structure store used as a database, cache, vector database, and message broker.",
+    "tags": "Database",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "JavaScript",
+    "badge": "Ubiquitous",
+    "imageUrl": "/icons/Container(1).png",
+    "description": "The versatile, ubiquitous scripting language powering interactive behavior across the web.",
+    "tags": "Language",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "TypeScript",
+    "badge": "Essential",
+    "imageUrl": "/icons/Container(2).png",
+    "description": "A strongly typed programming language that builds on JavaScript, giving you better tooling.",
+    "tags": "Language",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "Java",
+    "badge": "Robust",
+    "imageUrl": "/icons/Java.svg.png",
+    "description": "A high-level, class-based, object-oriented programming language designed for enterprise applications.",
+    "tags": "Language",
+    "level": "Intermediate",
+    "rating": 4.7,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "Tailwind CSS",
+    "badge": "Modern",
+    "imageUrl": "/icons/Tailwind-CSS.svg.png",
+    "description": "A utility-first CSS framework packed with classes that can be composed to build any design.",
+    "tags": "Styling",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "action": "Add to Stack"
+  },
+  {
+    "title": "Docker",
+    "badge": "Containers",
+    "imageUrl": "/icons/Docker.svg.png",
+    "description": "Set of platform as a service products that use OS-level virtualization to deliver software in packages.",
+    "tags": "DevOps",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "action": "Add to Stack"
+  }
+]
