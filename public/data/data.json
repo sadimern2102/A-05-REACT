@@ -31,7 +31,7 @@
   },
   {
     "title": "Next.js",
-    "badge": null,
+    "badge": "SSR / Edge",
     "imageUrl": "/icons/Container.png",
     "description": "The React framework for full-stack web applications with hybrid static & server rendering.",
     "tags": "Frontend",

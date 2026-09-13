@@ -13,43 +13,46 @@ const getBadgeStyle = (badge: string | null) => {
   }
 
   if (badge === "Versatile") {
-    return "text-[#10B981] bg-[#ECFDF5]";
+    return "text-[#059669] bg-[#ECFDF5]";
   }
 
   if (badge === "Fast") {
-    return "text-[#F97316] bg-[#FFF7ED]";
+    return "text-[#EA580C] bg-[#FFF7ED]";
+  }
+  if (badge === "SSR / Edge") {
+    return "text-[#7E22CE] bg-[#F3E8FF]";
   }
 
   if (badge === "Standard") {
-    return "text-[#10B981] bg-[#ECFDF5]";
+    return "text-[#059669] bg-[#ECFDF5]";
   }
 
   if (badge === "Top SQL") {
-    return "text-[#3B82F6] bg-[#EFF6FF]";
+    return "text-[#2563EB] bg-[#EFF6FF]";
   }
 
   if (badge === "Cache") {
-    return "text-[#EF4444] bg-[#FEF2F2]";
+    return "text-[#DC2626] bg-[#FEF2F2]";
   }
 
   if (badge === "Ubiquitous") {
-    return "text-[#F59E0B] bg-[#FFFBEB]";
+    return "text-[#D97706] bg-[#FFFBEB]";
   }
 
   if (badge === "Essential") {
-    return "text-[#0EA5E9] bg-[#F0F9FF]";
+    return "text-[#0284C7] bg-[#F0F9FF]";
   }
 
   if (badge === "Robust") {
-    return "text-[#0EA5E9] bg-[#F0F9FF]";
+    return "text-[#0284C7] bg-[#F0F9FF]";
   }
 
   if (badge === "Modern") {
-    return "text-[#06B6D4] bg-[#ECFEFF]";
+    return "text-[#0891B2] bg-[#ECFEFF]";
   }
 
   if (badge === "Containers") {
-    return "text-[#06B6D4] bg-[#ECFEFF]";
+    return "text-[#0284C7] bg-[#ECFEFF]";
   }
 
   return "";
