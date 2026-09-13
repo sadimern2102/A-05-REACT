@@ -42,6 +42,8 @@ React relies on unique keys to identify which items in a list have changed, been
 ### What is conditional rendering? Show one place you used it.
 Conditional rendering means displaying specific UI components or elements based on a condition evaluating to true or false. 
 
-**Example:**
-```jsx
-{tasks.length === 0 && <p className="empty-msg">No tasks found! Enjoy your free time.</p>}
+### How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
+Parent to Child: Props
+Child to Parent: Callback function passed through props
+React follows one-way data flow: parent to child.
+
